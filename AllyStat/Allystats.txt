@@ -1,0 +1,521 @@
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 77	[1:116:4]	 27.06.2014	 Off	
+baal the dark		 Imperator	 101	[2:31:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 110	[9:463:4]	 27.06.2014	 On	
+Mursana		 Imperator	 112	[1:222:6]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 169	[1:421:9]	 27.06.2014	 On	
+dywk		 Imperator	 229	[1:27:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 289	[3:114:6]	 01.07.2014	 On	
+blacklord999		 Imperator	 372	[2:20:10]	 27.06.2014	 30 Min.	
+Bombertina		 Imperator	 398	[2:170:8]	 27.06.2014	 On	
+varus		 Imperator	 433	[3:250:8]	 27.06.2014	 15 Min.	
+reb0RN		 Imperator	 532	[8:129:9]	 27.06.2014	 42 Min.	
+tomek		 Probezeit	 584	[2:181:6]	 02.07.2014	 On	
+ARMAGEDON		 Imperator	 608	[1:345:6]	 27.06.2014	 16 Min.	
+g4f		 Imperator	 639	[1:272:4]	 27.06.2014	 On	
+smokingz		 Imperator	 662	[1:376:4]	 27.06.2014	 22 Min.	
+Steveboo		 Probezeit	 703	[2:373:4]	 01.07.2014	 On	
+Wrong Destiny		 Probezeit	 936	[1:50:6]	 28.06.2014	 34 Min.	
+Starchild		 Imperator	 1089	[1:28:7]	 27.06.2014	 On	
+KrueMelChen		 Imperator	 1121	[2:23:4]	 27.06.2014	 Off	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 76	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 105	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 109	[1:222:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 111	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 173	[1:421:9]	 27.06.2014	 On	
+dywk		 Imperator	 222	[1:27:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 272	[3:114:6]	 01.07.2014	 On	
+blacklord999		 Imperator	 381	[2:20:10]	 27.06.2014	 20 Min.	
+Bombertina		 Imperator	 416	[2:170:8]	 27.06.2014	 37 Min.	
+varus		 Imperator	 418	[3:250:8]	 27.06.2014	 On	
+reb0RN		 Imperator	 511	[8:129:9]	 27.06.2014	 31 Min.	
+tomek		 Probezeit	 585	[2:181:6]	 02.07.2014	 On	
+ARMAGEDON		 Imperator	 594	[1:345:6]	 27.06.2014	 On	
+g4f		 Imperator	 608	[1:272:4]	 27.06.2014	 On	
+Killsort		 Probezeit	 611	[1:82:12]	 02.07.2014	 58 Min.	
+smokingz		 Imperator	 677	[1:376:4]	 27.06.2014	 On	
+Steveboo		 Probezeit	 717	[2:373:4]	 01.07.2014	 On	
+Wrong Destiny		 Imperator	 941	[1:50:6]	 28.06.2014	 On	
+Starchild		 Imperator	 1087	[1:28:7]	 27.06.2014	 On	
+KrueMelChen		 Imperator	 1144	[2:23:4]	 27.06.2014	 Off	
+
+W4R_MaChINE		 Gründer	 81	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 103	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 110	[2:31:6]	 27.06.2014	 Off	
+SuaveTheDon		 -XO-	 125	[9:463:4]	 27.06.2014	 Off	
+pArmEsAnEXpErtE		 Imperator	 174	[1:421:9]	 27.06.2014	 Off	
+dywk		 Imperator	 230	[8:130:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 259	[3:114:6]	 01.07.2014	 On	
+blindi		 Probezeit	 315	[1:363:6]	 03.07.2014	 On	
+blacklord999		 Imperator	 363	[2:20:10]	 27.06.2014	 On	
+varus		 Imperator	 421	[3:250:8]	 27.06.2014	 On	
+Bombertina		 Imperator	 454	[2:170:8]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 543	[1:345:6]	 27.06.2014	 On	
+reb0RN		 Imperator	 557	[8:129:9]	 27.06.2014	 On	
+g4f		 Imperator	 585	[1:272:4]	 27.06.2014	 49 Min.	
+tomek		 Probezeit	 592	[2:181:6]	 02.07.2014	 On	
+Killsort		 Probezeit	 611	[1:82:12]	 02.07.2014	 21 Min.	
+smokingz		 Imperator	 693	[1:376:4]	 27.06.2014	 Off	
+Steveboo		 Probezeit	 749	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 797	[1:363:4]	 03.07.2014	 On	
+Wrong Destiny		 Imperator	 889	[1:50:6]	 28.06.2014	 On	
+Starchild		 Imperator	 1054	[1:28:7]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1205	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1210	[3:113:4]	 02.07.2014	 On	
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 76	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 94	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 111	[1:222:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 131	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 179	[1:421:9]	 27.06.2014	 On	
+dywk		 Imperator	 185	[8:130:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 203	[3:114:6]	 01.07.2014	 On	
+blindi		 Probezeit	 314	[1:363:6]	 03.07.2014	 On	
+varus		 Imperator	 417	[3:250:8]	 27.06.2014	 On	
+blacklord999		 Imperator	 422	[2:20:10]	 27.06.2014	 Off	
+Bombertina		 Imperator	 480	[2:170:8]	 27.06.2014	 15 Min.	
+reb0RN		 Imperator	 488	[8:129:9]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 520	[1:345:6]	 27.06.2014	 46 Min.	
+Killsort		 Probezeit	 589	[1:82:12]	 02.07.2014	 On	
+tomek		 Probezeit	 612	[2:181:6]	 02.07.2014	 22 Min.	
+g4f		 Imperator	 618	[1:272:4]	 27.06.2014	 22 Min.	
+smokingz		 Imperator	 684	[1:376:4]	 27.06.2014	 Off	
+Steveboo		 Probezeit	 738	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 776	[1:363:4]	 03.07.2014	 On	
+Wrong Destiny		 Imperator	 907	[1:50:6]	 28.06.2014	 27 Min.	
+Starchild		 Imperator	 1041	[1:28:7]	 27.06.2014	 28 Min.	
+Zylon		 Probezeit	 1203	[3:113:4]	 02.07.2014	 27 Min.	
+KrueMelChen		 Imperator	 1246	[2:23:4]	 27.06.2014	 Off	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 76	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 92	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 98	[2:31:6]	 27.06.2014	 Off	
+SuaveTheDon		 -XO-	 145	[9:463:4]	 27.06.2014	 Off	
+dywk		 Imperator	 187	[8:130:12]	 27.06.2014	 Off	
+pArmEsAnEXpErtE		 Imperator	 193	[1:421:9]	 27.06.2014	 Off	
+trendsetter		 Probezeit	 197	[3:114:6]	 01.07.2014	 On	
+blindi		 Probezeit	 311	[1:363:6]	 03.07.2014	 Off	
+varus		 Imperator	 404	[3:250:8]	 27.06.2014	 Off	
+blacklord999		 Imperator	 455	[2:20:10]	 27.06.2014	 Off	
+reb0RN		 Imperator	 493	[8:129:9]	 27.06.2014	 On	
+Bombertina		 Imperator	 499	[2:170:8]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 529	[1:345:6]	 27.06.2014	 27 Min.	
+Killsort		 Probezeit	 611	[1:82:12]	 02.07.2014	 25 Min.	
+g4f		 Imperator	 632	[1:272:4]	 27.06.2014	 Off	
+tomek		 Probezeit	 639	[2:181:6]	 02.07.2014	 Off	
+Steveboo		 Probezeit	 651	[2:373:4]	 01.07.2014	 On	
+smokingz		 Imperator	 673	[1:376:4]	 27.06.2014	 Off	
+Philanthrop		 Probezeit	 779	[1:363:4]	 03.07.2014	 Off	
+Wrong Destiny		 Imperator	 897	[1:50:6]	 28.06.2014	 On	
+Starchild		 Imperator	 1075	[1:28:7]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1228	[3:113:4]	 02.07.2014	 Off	
+KrueMelChen		 Imperator	 1236	[2:23:4]	 27.06.2014	 Off	
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 76	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 94	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 99	[2:31:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 140	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 163	[1:421:9]	 27.06.2014	 On	
+dywk		 Imperator	 189	[8:130:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 199	[3:114:6]	 01.07.2014	 On	
+blindi		 Probezeit	 329	[1:363:6]	 03.07.2014	 Off	
+varus		 Imperator	 382	[3:250:8]	 27.06.2014	 On	
+Blesur		 Probezeit	 484	[2:105:8]	 04.07.2014	 On	
+blacklord999		 Imperator	 485	[2:20:10]	 27.06.2014	 Off	
+Bombertina		 Imperator	 503	[2:170:8]	 27.06.2014	 20 Min.	
+reb0RN		 Imperator	 504	[8:129:9]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 544	[1:345:6]	 27.06.2014	 Off	
+Killsort		 Probezeit	 596	[1:82:12]	 02.07.2014	 Off	
+g4f		 Imperator	 600	[1:272:4]	 27.06.2014	 32 Min.	
+smokingz		 Imperator	 646	[1:376:4]	 27.06.2014	 Off	
+Steveboo		 Probezeit	 647	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 743	[1:363:4]	 03.07.2014	 20 Min.	
+Wrong Destiny		 Imperator	 876	[1:50:6]	 28.06.2014	 On	
+Starchild		 Imperator	 1049	[1:28:7]	 27.06.2014	 44 Min.	
+Zylon		 Probezeit	 1228	[3:113:4]	 02.07.2014	 On	
+KrueMelChen		 Imperator	 1266	[2:23:4]	 27.06.2014	 Off	
+
+W4R_MaChINE		 Gründer	 75	[1:116:4]	 27.06.2014	 26 Min.	
+Mursana		 Imperator	 100	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 101	[2:31:6]	 27.06.2014	 36 Min.	
+SuaveTheDon		 -XO-	 142	[9:463:4]	 27.06.2014	 On	
+dywk		 Imperator	 174	[8:130:12]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 191	[1:421:9]	 27.06.2014	 On	
+trendsetter		 Probezeit	 204	[3:114:6]	 01.07.2014	 On	
+blindi		 Probezeit	 350	[1:363:6]	 03.07.2014	 Off	
+varus		 Imperator	 354	[3:250:8]	 27.06.2014	 On	
+reb0RN		 Imperator	 446	[8:129:9]	 27.06.2014	 25 Min.	
+Blesur		 Probezeit	 460	[2:105:8]	 04.07.2014	 On	
+Darkflame		 Probezeit	 496	[6:250:4]	 04.07.2014	 Off	
+Bombertina		 Imperator	 498	[2:170:8]	 27.06.2014	 54 Min.	
+blacklord999		 Imperator	 534	[2:20:10]	 27.06.2014	 1t	
+ARMAGEDON		 Imperator	 555	[1:345:6]	 27.06.2014	 42 Min.	
+Killsort		 Probezeit	 580	[1:82:12]	 02.07.2014	 53 Min.	
+g4f		 Imperator	 610	[1:272:4]	 27.06.2014	 On	
+Steveboo		 Probezeit	 622	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 643	[1:363:4]	 03.07.2014	 Off	
+smokingz		 Imperator	 677	[1:376:4]	 27.06.2014	 Off	
+Wrong Destiny		 Imperator	 872	[1:50:6]	 28.06.2014	 39 Min.	
+Starchild		 Imperator	 1023	[1:28:7]	 27.06.2014	 On	
+KrueMelChen		 Imperator	 1207	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1242	[3:113:4]	 02.07.2014	 Off	
+
+W4R_MaChINE		 Gründer	 78	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 89	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 100	[1:222:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 121	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 151	[1:421:9]	 27.06.2014	 Off	
+trendsetter		 Probezeit	 175	[3:114:6]	 01.07.2014	 On	
+dywk		 Imperator	 184	[8:130:12]	 27.06.2014	 On	
+varus		 Imperator	 343	[3:250:8]	 27.06.2014	 22 Min.	
+blindi		 Probezeit	 393	[1:363:6]	 03.07.2014	 Off	
+Blesur		 Probezeit	 422	[2:105:8]	 04.07.2014	 On	
+reb0RN		 Imperator	 456	[8:129:9]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 538	[1:345:6]	 27.06.2014	 On	
+blacklord999		 Imperator	 570	[2:20:10]	 27.06.2014	 1t	
+Darkflame		 Probezeit	 571	[6:250:4]	 04.07.2014	 On	
+Killsort		 Probezeit	 580	[1:82:12]	 02.07.2014	 On	
+g4f		 Imperator	 586	[1:272:4]	 27.06.2014	 15 Min.	
+Steveboo		 Probezeit	 604	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 689	[1:363:4]	 03.07.2014	 Off	
+smokingz		 Imperator	 705	[1:376:4]	 27.06.2014	 On	
+Bombertina		 Imperator	 843	[2:170:8]	 27.06.2014	 Off	
+Wrong Destiny		 Imperator	 879	[1:50:6]	 28.06.2014	 21 Min.	
+Starchild		 Imperator	 1039	[1:28:7]	 27.06.2014	 42 Min.	
+KrueMelChen		 Imperator	 1198	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1274	[3:113:4]	 02.07.2014	 Off	
+
+W4R_MaChINE		 Gründer	 77	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 83	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 103	[1:222:6]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 130	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 142	[1:421:9]	 27.06.2014	 On	
+trendsetter		 Probezeit	 162	[3:114:6]	 01.07.2014	 On	
+dywk		 Imperator	 169	[8:130:12]	 27.06.2014	 On	
+varus		 Imperator	 327	[3:250:8]	 27.06.2014	 On	
+Blesur		 Probezeit	 392	[2:105:8]	 04.07.2014	 On	
+Gajeel		 Probezeit	 420	[2:100:5]	 05.07.2014	 On	
+blindi		 Probezeit	 434	[1:363:6]	 03.07.2014	 Off	
+reb0RN		 Imperator	 443	[8:129:9]	 27.06.2014	 34 Min.	
+ARMAGEDON		 Imperator	 513	[1:345:6]	 27.06.2014	 Off	
+Killsort		 Probezeit	 561	[1:82:12]	 02.07.2014	 On	
+g4f		 Imperator	 573	[1:272:4]	 27.06.2014	 54 Min.	
+Steveboo		 Probezeit	 591	[2:373:4]	 01.07.2014	 On	
+blacklord999		 Imperator	 597	[2:20:10]	 27.06.2014	 2t	
+smokingz		 Imperator	 686	[1:376:4]	 27.06.2014	 On	
+tomek		 Probezeit	 720	[2:181:6]	 05.07.2014	 On	
+Philanthrop		 Probezeit	 723	[1:363:4]	 03.07.2014	 28 Min.	
+Wrong Destiny		 Imperator	 866	[1:50:6]	 28.06.2014	 On	
+Starchild		 Imperator	 1012	[1:28:7]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1193	[2:23:4]	 27.06.2014	 On	
+Zylon		 Probezeit	 1335	[3:113:4]	 02.07.2014	 1t	
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 78	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 97	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 99	[1:222:6]	 27.06.2014	 19 Min.	
+SuaveTheDon		 -XO-	 146	[9:463:4]	 27.06.2014	 Off	
+pArmEsAnEXpErtE		 Imperator	 150	[1:421:9]	 27.06.2014	 On	
+trendsetter		 Probezeit	 153	[3:114:6]	 01.07.2014	 On	
+dywk		 Imperator	 162	[8:130:12]	 27.06.2014	 On	
+varus		 Imperator	 336	[3:250:8]	 27.06.2014	 On	
+Gajeel		 Probezeit	 414	[2:100:5]	 05.07.2014	 Off	
+Blesur		 Probezeit	 415	[2:105:8]	 04.07.2014	 On	
+reb0RN		 Imperator	 442	[8:129:9]	 27.06.2014	 On	
+ARMAGEDON		 Imperator	 451	[1:345:6]	 27.06.2014	 On	
+blindi		 Probezeit	 478	[1:363:6]	 03.07.2014	 1t	
+Killsort		 Probezeit	 540	[1:82:12]	 02.07.2014	 48 Min.	
+g4f		 Imperator	 558	[1:272:4]	 27.06.2014	 Off	
+smokingz		 Imperator	 616	[1:376:4]	 27.06.2014	 On	
+blacklord999		 Imperator	 660	[2:20:10]	 27.06.2014	 2t	
+Steveboo		 Probezeit	 732	[2:373:4]	 01.07.2014	 On	
+tomek		 Probezeit	 763	[2:181:6]	 05.07.2014	 Off	
+Philanthrop		 Probezeit	 779	[1:363:4]	 03.07.2014	 Off	
+Wrong Destiny		 Imperator	 848	[1:50:6]	 28.06.2014	 29 Min.	
+Starchild		 Imperator	 967	[1:28:7]	 27.06.2014	 On	
+Trykonosis		 Neuling	 1017	[1:324:10]	 06.07.2014	 On	
+KrueMelChen		 Imperator	 1151	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1532	[3:113:4]	 02.07.2014	 1t	
+
+W4R_MaChINE		 Gründer	 74	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 84	[1:222:6]	 27.06.2014	 Off	
+baal the dark		 Imperator	 101	[2:31:6]	 27.06.2014	 Off	
+dywk		 Imperator	 145	[8:130:12]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 147	[9:463:4]	 27.06.2014	 Off	
+pArmEsAnEXpErtE		 Imperator	 151	[1:421:9]	 27.06.2014	 On	
+trendsetter		 Probezeit	 172	[3:114:6]	 01.07.2014	 On	
+varus		 Imperator	 332	[3:250:8]	 27.06.2014	 27 Min.	
+Blesur		 Probezeit	 373	[2:105:8]	 04.07.2014	 On	
+Gajeel		 Probezeit	 414	[2:100:5]	 05.07.2014	 Off	
+ARMAGEDON		 Imperator	 458	[1:345:6]	 27.06.2014	 Off	
+reb0RN		 Imperator	 469	[8:129:9]	 27.06.2014	 Off	
+blindi		 Probezeit	 537	[1:363:6]	 03.07.2014	 Off	
+Killsort		 Probezeit	 567	[1:82:12]	 02.07.2014	 Off	
+g4f		 Imperator	 593	[1:272:4]	 27.06.2014	 On	
+smokingz		 Imperator	 647	[1:376:4]	 27.06.2014	 Off	
+Steveboo		 Probezeit	 669	[2:373:4]	 01.07.2014	 On	
+Philanthrop		 Probezeit	 741	[1:363:4]	 03.07.2014	 Off	
+blacklord999		 Imperator	 743	[2:20:10]	 27.06.2014	 3t	
+Wrong Destiny		 Imperator	 829	[1:50:6]	 28.06.2014	 On	
+tomek		 Probezeit	 898	[2:181:6]	 05.07.2014	 Off	
+Trykonosis		 Probezeit	 968	[1:324:10]	 06.07.2014	 Off	
+Starchild		 Imperator	 1019	[1:28:7]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1203	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1613	[3:113:4]	 02.07.2014	 2t	
+
+
+W4R_MaChINE		 Gründer	 76	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 97	[1:222:6]	 27.06.2014	 20 Min.	
+baal the dark		 Imperator	 100	[2:31:6]	 27.06.2014	 16 Min.	
+dywk		 Imperator	 119	[8:130:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 146	[3:114:6]	 01.07.2014	 On	
+SuaveTheDon		 -XO-	 154	[9:463:4]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 156	[1:421:9]	 27.06.2014	 On	
+varus		 Imperator	 368	[3:250:8]	 27.06.2014	 On	
+Blesur		 Probezeit	 382	[2:105:8]	 04.07.2014	 On	
+Gajeel		 Probezeit	 406	[2:100:5]	 05.07.2014	 On	
+reb0RN		 Imperator	 416	[8:129:9]	 27.06.2014	 31 Min.	
+ARMAGEDON		 Imperator	 430	[1:345:6]	 27.06.2014	 On	
+blindi		 Probezeit	 517	[1:363:6]	 03.07.2014	 On	
+Killsort		 Probezeit	 558	[1:82:12]	 02.07.2014	 Off	
+g4f		 Imperator	 576	[1:272:4]	 27.06.2014	 Off	
+Steveboo		 Probezeit	 621	[2:373:4]	 01.07.2014	 On	
+smokingz		 Imperator	 642	[1:376:4]	 27.06.2014	 On	
+Philanthrop		 Probezeit	 775	[1:363:4]	 03.07.2014	 Off	
+blacklord999		 Imperator	 796	[2:20:10]	 27.06.2014	 4t	
+Wrong Destiny		 Imperator	 814	[1:50:6]	 28.06.2014	 59 Min.	
+tomek		 Probezeit	 942	[2:181:6]	 05.07.2014	 Off	
+Trykonosis		 Probezeit	 960	[1:324:10]	 06.07.2014	 Off	
+Starchild		 Imperator	 966	[1:28:7]	 27.06.2014	 41 Min.	
+KrueMelChen		 Imperator	 1183	[2:23:4]	 27.06.2014	 26 Min.	
+Zylon		 Probezeit	 1552	[3:113:4]	 02.07.2014	 Off	
+
+W4R_MaChINE		 Gründer	 71	[1:116:4]	 27.06.2014	 Off	
+baal the dark		 Imperator	 78	[2:31:6]	 27.06.2014	 On	
+Mursana		 Imperator	 92	[1:222:6]	 27.06.2014	 On	
+dywk		 Imperator	 124	[8:130:12]	 27.06.2014	 On	
+trendsetter		 Probezeit	 136	[3:114:6]	 01.07.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 140	[1:421:9]	 27.06.2014	 46 Min.	
+SuaveTheDon		 -XO-	 181	[9:463:4]	 27.06.2014	 On	
+varus		 Imperator	 333	[3:250:8]	 27.06.2014	 On	
+Blesur		 Probezeit	 391	[2:105:8]	 04.07.2014	 On	
+Gajeel		 Probezeit	 409	[2:100:5]	 05.07.2014	 On	
+ARMAGEDON		 Imperator	 428	[1:345:6]	 27.06.2014	 Off	
+reb0RN		 Imperator	 466	[8:129:9]	 27.06.2014	 Off	
+luckybone		 Probezeit	 489	[1:335:4]	 08.07.2014	 Off	
+blindi		 Probezeit	 512	[1:363:6]	 03.07.2014	 Off	
+Killsort		 Probezeit	 514	[1:82:12]	 02.07.2014	 Off	
+Steveboo		 Probezeit	 549	[2:373:4]	 01.07.2014	 On	
+g4f		 Imperator	 619	[1:272:4]	 27.06.2014	 Off	
+smokingz		 Imperator	 646	[1:376:4]	 27.06.2014	 Off	
+Philanthrop		 Probezeit	 763	[1:363:4]	 03.07.2014	 Off	
+Wrong Destiny		 Imperator	 808	[1:50:6]	 28.06.2014	 36 Min.	
+blacklord999		 Imperator	 899	[2:20:10]	 27.06.2014	 Off	
+Trykonosis		 Probezeit	 960	[1:324:10]	 06.07.2014	 On	
+Starchild		 Imperator	 966	[1:28:7]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1176	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Probezeit	 1475	[3:113:4]	 02.07.2014	 On	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+dywk		 Imperator	 0	[8:130:12]	 27.06.2014	 Off	
+W4R_MaChINE		 Gründer	 77	[1:116:4]	 27.06.2014	 On	
+baal the dark		 Imperator	 78	[2:31:6]	 27.06.2014	 Off	
+Mursana		 Imperator	 88	[1:222:6]	 27.06.2014	 25 Min.	
+trendsetter		 Probezeit	 115	[3:114:6]	 01.07.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 143	[1:421:9]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 160	[9:463:4]	 27.06.2014	 Off	
+varus		 Imperator	 328	[3:250:8]	 27.06.2014	 On	
+Blesur		 Probezeit	 350	[2:105:8]	 04.07.2014	 On	
+luckybone		 Probezeit	 360	[1:335:4]	 08.07.2014	 On	
+Gajeel		 Probezeit	 382	[2:100:5]	 05.07.2014	 Off	
+ARMAGEDON		 Imperator	 431	[1:345:6]	 27.06.2014	 16 Min.	
+Steveboo		 Probezeit	 433	[2:373:4]	 01.07.2014	 On	
+reb0RN		 Imperator	 446	[8:129:9]	 27.06.2014	 34 Min.	
+blindi		 Probezeit	 470	[1:363:6]	 03.07.2014	 Off	
+Killsort		 Probezeit	 535	[1:82:12]	 02.07.2014	 Off	
+smokingz		 Imperator	 601	[1:376:4]	 27.06.2014	 Off	
+g4f		 Imperator	 632	[1:272:4]	 27.06.2014	 Off	
+Philanthrop		 Probezeit	 719	[1:363:4]	 03.07.2014	 On	
+Wrong Destiny		 Imperator	 806	[1:50:6]	 28.06.2014	 31 Min.	
+Trykonosis		 Probezeit	 883	[1:324:10]	 06.07.2014	 36 Min.	
+Starchild		 Imperator	 888	[1:28:7]	 27.06.2014	 45 Min.	
+blacklord999		 Imperator	 1007	[2:20:10]	 27.06.2014	 1t	
+KrueMelChen		 Imperator	 1163	[2:23:4]	 27.06.2014	 17 Min.	
+Zylon		 Probezeit	 1320	[3:113:4]	 02.07.2014	 On	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+dywk		 Imperator	 0	[8:130:12]	 27.06.2014	 1t	
+baal the dark		 Imperator	 73	[2:31:6]	 27.06.2014	 27 Min.	
+W4R_MaChINE		 Gründer	 78	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 83	[1:222:6]	 27.06.2014	 On	
+trendsetter		 Imperator	 110	[3:114:6]	 01.07.2014	 17 Min.	
+pArmEsAnEXpErtE		 Imperator	 145	[1:421:9]	 27.06.2014	 Off	
+SuaveTheDon		 -XO-	 168	[9:463:4]	 27.06.2014	 On	
+varus		 Imperator	 329	[3:250:8]	 27.06.2014	 On	
+luckybone		 Probezeit	 353	[1:335:4]	 08.07.2014	 Off	
+Blesur		 Probezeit	 358	[2:105:8]	 04.07.2014	 Off	
+Gajeel		 Imperator	 375	[2:100:5]	 05.07.2014	 Off	
+Steveboo		 Imperator	 408	[2:373:4]	 01.07.2014	 On	
+ARMAGEDON		 Imperator	 426	[1:345:6]	 27.06.2014	 51 Min.	
+reb0RN		 Imperator	 441	[8:129:9]	 27.06.2014	 44 Min.	
+blindi		 Probezeit	 460	[1:363:6]	 03.07.2014	 On	
+Killsort		 Probezeit	 537	[1:82:12]	 02.07.2014	 On	
+g4f		 Imperator	 606	[1:272:4]	 27.06.2014	 50 Min.	
+smokingz		 Imperator	 607	[1:376:4]	 27.06.2014	 On	
+Philanthrop		 Imperator	 704	[1:363:4]	 03.07.2014	 Off	
+Wrong Destiny		 Imperator	 812	[1:50:6]	 28.06.2014	 Off	
+Starchild		 Imperator	 853	[1:28:7]	 27.06.2014	 On	
+Trykonosis		 Probezeit	 883	[1:324:10]	 06.07.2014	 On	
+blacklord999		 Imperator	 1027	[2:20:10]	 27.06.2014	 2t	
+KrueMelChen		 Imperator	 1162	[2:23:4]	 27.06.2014	 Off	
+Zylon		 Imperator	 1276	[3:113:4]	 02.07.2014	 On	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 78	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 79	[1:222:6]	 27.06.2014	 51 Min.	
+baal the dark		 Imperator	 84	[2:31:6]	 27.06.2014	 On	
+trendsetter		 Imperator	 102	[3:114:6]	 01.07.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 123	[1:421:9]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 161	[9:463:4]	 27.06.2014	 On	
+dywk		 Imperator	 241	[8:130:12]	 27.06.2014	 27 Min.	
+Steveboo		 Imperator	 307	[2:373:4]	 01.07.2014	 On	
+varus		 Imperator	 329	[3:250:8]	 27.06.2014	 Off	
+Gajeel		 Imperator	 357	[2:100:5]	 05.07.2014	 36 Min.	
+ARMAGEDON		 Imperator	 393	[1:345:6]	 27.06.2014	 30 Min.	
+Blesur		 Probezeit	 420	[2:105:8]	 04.07.2014	 Off	
+luckybone		 Probezeit	 435	[1:335:4]	 08.07.2014	 Off	
+blindi		 Probezeit	 443	[1:363:6]	 03.07.2014	 22 Min.	
+reb0RN		 Imperator	 472	[8:129:9]	 27.06.2014	 Off	
+Killsort		 Probezeit	 526	[1:82:12]	 02.07.2014	 Off	
+smokingz		 Imperator	 555	[1:376:4]	 27.06.2014	 On	
+g4f		 Imperator	 675	[1:272:4]	 27.06.2014	 Off	
+Philanthrop		 Imperator	 687	[1:363:4]	 03.07.2014	 On	
+Wrong Destiny		 Imperator	 765	[1:50:6]	 28.06.2014	 22 Min.	
+Trykonosis		 Probezeit	 790	[1:324:10]	 06.07.2014	 On	
+Starchild		 Imperator	 942	[1:28:7]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1142	[2:23:4]	 27.06.2014	 On	
+Zylon		 Imperator	 1169	[3:113:4]	 02.07.2014	 Off	
+blacklord999		 Imperator	 1187	[2:20:10]	 27.06.2014	 4t	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 77	[1:116:4]	 27.06.2014	 On	
+Mursana		 Imperator	 79	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 83	[2:31:6]	 27.06.2014	 56 Min.	
+trendsetter		 Imperator	 100	[3:114:6]	 01.07.2014	 47 Min.	
+pArmEsAnEXpErtE		 Imperator	 108	[1:421:9]	 27.06.2014	 58 Min.	
+SuaveTheDon		 -XO-	 196	[9:463:4]	 27.06.2014	 On	
+dywk		 Imperator	 235	[8:130:12]	 27.06.2014	 34 Min.	
+Steveboo		 Imperator	 255	[2:373:4]	 01.07.2014	 On	
+varus		 Imperator	 325	[3:250:8]	 27.06.2014	 Off	
+Gajeel		 Imperator	 347	[2:100:5]	 05.07.2014	 On	
+ARMAGEDON		 Imperator	 390	[1:345:6]	 27.06.2014	 On	
+Blesur		 Probezeit	 403	[2:105:8]	 04.07.2014	 On	
+luckybone		 Probezeit	 419	[1:335:4]	 08.07.2014	 Off	
+blindi		 Probezeit	 444	[1:363:6]	 03.07.2014	 Off	
+Killsort		 Probezeit	 506	[1:82:12]	 02.07.2014	 On	
+reb0RN		 Imperator	 531	[8:129:9]	 27.06.2014	 24 Min.	
+smokingz		 Imperator	 535	[1:376:4]	 27.06.2014	 34 Min.	
+Philanthrop		 Imperator	 681	[1:363:4]	 03.07.2014	 Off	
+Wrong Destiny		 Imperator	 771	[1:50:6]	 28.06.2014	 16 Min.	
+Trykonosis		 Probezeit	 772	[1:324:10]	 06.07.2014	 On	
+g4f		 Imperator	 780	[1:272:4]	 27.06.2014	 1t	
+Starchild		 Imperator	 1003	[1:28:7]	 27.06.2014	 1t	
+KrueMelChen		 Imperator	 1108	[2:23:4]	 27.06.2014	 21 Min.	
+Zylon		 Imperator	 1219	[3:113:4]	 02.07.2014	 1t	
+blacklord999		 Imperator	 1240	[2:20:10]	 27.06.2014	 5t
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+baal the dark		 Imperator	 72	[2:31:6]	 27.06.2014	 On	
+W4R_MaChINE		 Gründer	 74	[1:116:4]	 27.06.2014	 Off	
+Mursana		 Imperator	 77	[1:222:6]	 27.06.2014	 Off	
+trendsetter		 Imperator	 91	[3:114:6]	 01.07.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 94	[1:421:9]	 27.06.2014	 On	
+SuaveTheDon		 -XO-	 201	[9:463:4]	 27.06.2014	 Off	
+Steveboo		 Imperator	 231	[2:373:4]	 01.07.2014	 On	
+Gajeel		 Imperator	 348	[2:100:5]	 05.07.2014	 Off	
+dywk		 Imperator	 359	[8:130:12]	 27.06.2014	 Off	
+blindi		 Probezeit	 389	[1:363:6]	 03.07.2014	 On	
+varus		 Imperator	 390	[3:250:8]	 27.06.2014	 Off	
+Blesur		 Probezeit	 392	[2:105:8]	 04.07.2014	 Off	
+ARMAGEDON		 Imperator	 406	[1:345:6]	 27.06.2014	 Off	
+luckybone		 Probezeit	 462	[1:335:4]	 08.07.2014	 On	
+Killsort		 Probezeit	 489	[1:82:12]	 02.07.2014	 38 Min.	
+smokingz		 Imperator	 494	[1:376:4]	 27.06.2014	 Off	
+reb0RN		 Imperator	 527	[8:129:9]	 27.06.2014	 On	
+Philanthrop		 Imperator	 637	[1:363:4]	 03.07.2014	 32 Min.	
+Wrong Destiny		 Imperator	 756	[1:50:6]	 28.06.2014	 Off	
+Trykonosis		 Probezeit	 775	[1:324:10]	 06.07.2014	 Off	
+g4f		 Imperator	 830	[1:272:4]	 27.06.2014	 1t	
+KrueMelChen		 Imperator	 1060	[2:23:4]	 27.06.2014	 Off	
+Starchild		 Imperator	 1120	[1:28:7]	 27.06.2014	 3t	
+Zylon		 Imperator	 1161	[3:113:4]	 02.07.2014	 On	
+blacklord999		 Imperator	 1364	[2:20:10]	 27.06.2014	 6t		
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+W4R_MaChINE		 Gründer	 69	[1:116:4]	 27.06.2014	 40 Min.	
+Mursana		 Imperator	 79	[1:222:6]	 27.06.2014	 On	
+baal the dark		 Imperator	 83	[2:31:6]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 91	[1:421:9]	 27.06.2014	 On	
+trendsetter		 Imperator	 94	[3:114:6]	 01.07.2014	 46 Min.	
+SuaveTheDon		 -XO-	 185	[9:463:4]	 27.06.2014	 On	
+Steveboo		 Imperator	 202	[2:373:4]	 01.07.2014	 On	
+Gajeel		 Imperator	 354	[2:100:5]	 05.07.2014	 28 Min.	
+blindi		 Probezeit	 378	[1:363:6]	 03.07.2014	 On	
+dywk		 Imperator	 385	[8:130:12]	 27.06.2014	 23 Min.	
+Blesur		 Probezeit	 394	[2:105:8]	 04.07.2014	 Off	
+varus		 Imperator	 404	[3:250:8]	 27.06.2014	 Off	
+ARMAGEDON		 Imperator	 410	[1:345:6]	 27.06.2014	 16 Min.	
+luckybone		 Probezeit	 473	[1:335:4]	 08.07.2014	 On	
+Killsort		 Probezeit	 477	[1:82:12]	 02.07.2014	 On	
+smokingz		 Imperator	 491	[1:376:4]	 27.06.2014	 30 Min.	
+reb0RN		 Imperator	 508	[8:129:9]	 27.06.2014	 41 Min.	
+Philanthrop		 Imperator	 641	[1:363:4]	 03.07.2014	 16 Min.	
+Trykonosis		 Probezeit	 743	[1:324:10]	 06.07.2014	 On	
+Wrong Destiny		 Imperator	 759	[1:50:6]	 28.06.2014	 45 Min.	
+g4f		 Imperator	 867	[1:272:4]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1057	[2:23:4]	 27.06.2014	 On	
+Starchild		 Imperator	 1150	[1:28:7]	 27.06.2014	 4t	
+Zylon		 Imperator	 1193	[3:113:4]	 02.07.2014	 On	
+blacklord999		 Imperator	 1392	[2:20:10]	 27.06.2014	 7t	
+
+
+Name		 Rang	 Platz	 Koord	 Beitritt	 Online	 Funktion
+baal the dark		 Imperator	 72	[2:31:6]	 27.06.2014	 26 Min.	
+W4R_MaChINE		 Gründer	 73	[1:116:4]	 27.06.2014	 24 Min.	
+Mursana		 Imperator	 82	[1:222:6]	 27.06.2014	 On	
+pArmEsAnEXpErtE		 Imperator	 85	[1:421:9]	 27.06.2014	 Off	
+trendsetter		 Imperator	 94	[3:114:6]	 01.07.2014	 33 Min.	
+Steveboo		 Imperator	 166	[2:373:4]	 01.07.2014	 On	
+SuaveTheDon		 -XO-	 180	[9:463:4]	 27.06.2014	 29 Min.	
+Gajeel		 Imperator	 344	[2:100:5]	 05.07.2014	 Off	
+blindi		 Probezeit	 379	[1:363:6]	 03.07.2014	 On	
+Blesur		 Probezeit	 390	[2:105:8]	 04.07.2014	 On	
+ARMAGEDON		 Imperator	 399	[1:345:6]	 27.06.2014	 Off	
+dywk		 Imperator	 409	[8:130:12]	 27.06.2014	 Off	
+varus		 Imperator	 414	[3:250:8]	 27.06.2014	 On	
+luckybone		 Probezeit	 450	[1:335:4]	 08.07.2014	 On	
+reb0RN		 Imperator	 455	[8:129:9]	 27.06.2014	 On	
+Killsort		 Probezeit	 471	[1:82:12]	 02.07.2014	 Off	
+smokingz		 Imperator	 479	[1:376:4]	 27.06.2014	 On	
+Philanthrop		 Imperator	 669	[1:363:4]	 03.07.2014	 On	
+Trykonosis		 Probezeit	 713	[1:324:10]	 06.07.2014	 Off	
+Wrong Destiny		 Imperator	 737	[1:50:6]	 28.06.2014	 15 Min.	
+g4f		 Imperator	 904	[1:272:4]	 27.06.2014	 Off	
+KrueMelChen		 Imperator	 1033	[2:23:4]	 27.06.2014	 On	
+Zylon		 Imperator	 1187	[3:113:4]	 02.07.2014	 Off	
+Starchild		 Imperator	 1198	[1:28:7]	 27.06.2014	 4t	
+blacklord999		 Imperator	 1436	[2:20:10]	 27.06.2014	 8t	

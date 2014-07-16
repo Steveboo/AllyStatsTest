@@ -37,10 +37,13 @@ public class AllyStat {
                                         x=zeile.indexOf(".");
                                         y=zeile.indexOf(".", x+1);
                                         zeile=zeile.replaceAll(zeile.substring(x, y),"");
-                                        x=zeile.indexOf("[");
-                                        y=zeile.indexOf("]");
-                                       zeile=zeile.replaceAll(zeile.substring(x, y),"");
-                System.out.println( zeile);
+                                        x=zeile.indexOf(".");
+                                    //    y=zeile.indexOf(".",x+1);
+                                       // zeile=zeile.replaceAll(zeile.substring(16, zeile.length()),"");
+                                      //  y=zeile.codePointAt(14);
+                                     //   zeile.replace(,"");
+                                    
+                System.out.println( zeile+"x: "+x);
                 } 
                                 }
 		}
